@@ -51,3 +51,5 @@ samples, guidance on mobile development, and a full API reference.
 // New line 2 added by script
 // New line 1 added by script
 // New line 2 added by script
+// New line 1 added by script
+// New line 2 added by script
